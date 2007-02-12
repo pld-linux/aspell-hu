@@ -1,5 +1,5 @@
 Summary:	Hungarian dictionary for aspell
-Summary(pl):	S³ownik wêgierski dla aspella
+Summary(pl.UTF-8):   SÅ‚ownik wÄ™gierski dla aspella
 Name:		aspell-hu
 Version:	0.99.4.2
 %define	subv	0
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Hungarian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S³ownik wêgierski (lista s³ów) dla aspella.
+%description -l pl.UTF-8
+SÅ‚ownik wÄ™gierski (lista sÅ‚Ã³w) dla aspella.
 
 %prep
 %setup -q -n aspell6-hu-%{version}-%{subv}
