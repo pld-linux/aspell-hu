@@ -1,5 +1,5 @@
 Summary:	Hungarian dictionary for aspell
-Summary(pl.UTF-8):   Słownik węgierski dla aspella
+Summary(pl.UTF-8):	Słownik węgierski dla aspella
 Name:		aspell-hu
 Version:	0.99.4.2
 %define	subv	0
