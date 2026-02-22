@@ -3,7 +3,7 @@ Summary(pl.UTF-8):	Słownik węgierski dla aspella
 Name:		aspell-hu
 Version:	0.99.4.2
 %define	subv	0
-Release:	2
+Release:	3
 Epoch:		1
 License:	GPL v2+
 Group:		Applications/Text
